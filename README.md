@@ -37,9 +37,9 @@ The game is unfinished due to time constrants, but still maintains relative func
 Download latest stable build for Mac or Windows.
 
 ## Acknowledgments
-
-Unity
-Chrome Lab
+Developed using:
+Unity,
+Chrome Lab,
 Procreate
 
 
