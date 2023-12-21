@@ -1,5 +1,3 @@
-# DuckingTanks README
-
 ## Overview
 
 This game project was developed as part of a software development class, where I had the opportunity to explore Unity.
