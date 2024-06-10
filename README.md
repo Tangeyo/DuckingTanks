@@ -10,7 +10,7 @@ DuckingTanks is a 2-player split-screen retro-themed game where two tanks engage
 - **Custom Artwork:** Hand-drawn pixel art using Procreate.
 - **Original Music:** Unique soundtrack produced using Google Chrome Lab.
 
-### How to Download
+## How to Download
 
 Download the latest stable release for Mac or Windows.
 
